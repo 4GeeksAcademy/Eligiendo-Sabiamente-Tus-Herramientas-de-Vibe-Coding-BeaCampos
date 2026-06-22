@@ -39,3 +39,20 @@ $ pip3 install flask && python3 server.py
 This template was built as part of the [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
 
 You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
+## 📊 Mi Tabla de Herramientas de Vibe Coding
+
+| Herramienta | UI/UX | Costo | Velocidad | Dependencia | Control | Mantenibilidad | Calidad Código | Reutilización | Tu Calificación | Notas |
+|------------|------|------|----------|-------------|---------|----------------|----------------|---------------|-----------------|------|
+| Vercel v0 | 5 | 3 | 5 | 2 | 2 | 1 | 5 | 1 | 5 | Ideal para crear interfaces rápidas |
+| Replit | 4 | 1 | 4 | 1 | 1 | 3 | 5 | 1 | 3 | Fácil pero limitado |
+| Lovable | 5 | 3 | 4 | 3 | 3 | 3 | 4 | 1 | 4 | Buen balance |
+| Windsurf | 3 | 5 | 3 | 5 | 5 | 5 | 5 | 5 | 4 | Muy potente pero complejo |
+| Cursor | 2 | 4 | 3 | 5 | 4 | 5 | 4 | 5 | 5 | Excelente con IA |
+| Supabase | 4 | 5 | 5 | 4 | 4 | 5 | 4 | 5 | 5 | Backend rápido |
+| Zapier | 3 | 3 | 4 | 4 | 2 | 3 | 3 | 4 | 3 | Automatización básica |
+
+## 🧠 Conclusión
+Después de hacer la tabla, me quedo con herramientas que me permiten trabajar rápido sin complicarme mucho. Las que más usaría son Vercel v0, Supabase y Cursor.
+
+Prefiero algo sencillo para empezar y ya más adelante usar herramientas más completas si las necesito.
+
